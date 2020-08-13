@@ -4,9 +4,8 @@ UI Clone - Dropbox Homepage
 
 <p align="center">Responsive Dropbox Homepage UI clone for study purposes.</p>
 
-<hr>
-## Techs
-
+<hr/>
+# Techs
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
